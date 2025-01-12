@@ -1,0 +1,7 @@
+{
+  "name": "RxStudio",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
